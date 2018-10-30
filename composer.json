@@ -1,6 +1,6 @@
 {
 	"name": "facyla/shorturls",
-	"version": "1.12",
+	"version": "2.3.0",
 	"type": "elgg-plugin",
 	"repositories": [
 		{
@@ -11,7 +11,7 @@
 	"require": {
 		"composer/installers": ">=1.0.8"
 	},
-	"description": "Provides internal short URL for entities",
+	"description": "Provides internal short URLs for entities",
 	"homepage": "https://facyla.fr",
 	"license": "GPL-2.0-only",
 	"authors": [
